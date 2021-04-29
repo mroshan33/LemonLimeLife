@@ -9,7 +9,7 @@ head-title: Lemon Lime Blog
 title: Lemon Lime Blog
 
 baseurl: ""    # the subpath of your site, "/blog"
-url: "http://www.lemonlimelife.com/"
+url: "https://www.lemonlimelife.com/"
 
 # footer 
 description: ""
