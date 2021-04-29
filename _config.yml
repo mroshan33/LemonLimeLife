@@ -5,17 +5,17 @@ email: roshan.sapkota@rocketmail.com
  
 
 
-head-title: Lemon Lime Blog	
-title: Lemon Lime Blog
+head-title: Lemon Lime Life	
+title: Lemon Lime Life
 
 baseurl: ""    # the subpath of your site, "/blog"
 url: "https://www.lemonlimelife.com/"
 
 # footer 
-description: ""
+
 
 favo: ""
-descrpt: "“"
+descrpt: ""
 
 
 #
