@@ -4,17 +4,9 @@ title: About
 permalink: /about/
 ---
 
-#### Tagline
-
-Your tagline.
-
 #### Introduction
 
-Introduce yourself.
-
-#### This theme
-
-This [jekyll](https://jekyllrb.com) theme is based on [materialize](http://materializecss.com). For more detail, you can view the github repo: [mumuxme/materialize-jekyll](https://github.com/mumuxme/materialize-jekyll)
+Hi, I am Roshan Sapkota and I like helping people, seeing others smile, and express my thoughts. I try to share as much as I can through this blog and I hope to bring some value to you.
 
 
 #### License
